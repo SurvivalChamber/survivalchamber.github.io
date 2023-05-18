@@ -43,7 +43,7 @@ header {
     border-radius: 20px;
     background-color: #0004;
     width: clamp(100px, 400px, 90dvw);
-    height: clamp(100px, 400px, 400px);
+    height: 400px;
     flex-shrink: 0;
 }
 
