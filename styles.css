@@ -65,12 +65,12 @@ button {
     transition: scale 0.15s;
 }
 
-button:hover {
+.discord-button:hover {
     scale: 1.015;
 }
 
 .realm-button {
-    background-color: #47dd3699;
+    background-color: #65656599;
 }
 
 .discord-button {
